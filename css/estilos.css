@@ -1,0 +1,82 @@
+
+body{
+	background-color: #FFFFFF;
+	
+}
+#menu{
+	background-color: #060972;
+	color:#FFFFFF;
+	border-bottom: 5px solid #80F7F0;
+}
+#menu li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px;
+
+
+}
+#menu li:hover{
+	background-color: #B4AFAF;
+	color:#0A0A0A;
+	padding: 10px;
+}
+#menu li a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.modelo{
+	width: 200px;
+	height: 200px;
+	background-color:#0EA1ED;
+	margin: 5px; 
+}
+.caja3{
+	background-color: #A32929;
+	position: relative;
+	left: 100px;
+	top:60px;
+}
+.padre{
+	
+	background-color: #70E48B;
+	width: 900px;
+	height: 200px;
+	margin: auto;
+	border-radius: 25px;
+	
+}
+.logo{
+	
+	width: 280px;
+	height: 185px;
+	margin: 5px;
+	background-image: url(../calceta.png);
+	background-size: cover;
+	display: inline-block;
+	
+}
+.baner
+{
+	background-color: #0E0658;
+	width: 550px;
+	height: 185px;
+	margin: 5px;
+	display: inline-block;
+}
+.prueba{
+	background-color: #F2B6B6;
+	width: 400px;
+	height: 100px;
+	overflow: scroll;
+}
+div{
+	padding: 5px;
+}
+div input{
+	background-color: #DFF47C;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+button{
+	background-color: #767CF5
+}
